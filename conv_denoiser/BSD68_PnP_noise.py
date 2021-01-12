@@ -20,6 +20,8 @@ from conv_denoiser.PnP_algs import *
 import pickle
 
 def run(scale=1.99,noise_level_PnP=0.1,noise_level_denoiser=25./255.,num=None,pretrained_weights=True):
+    if not os.path.isdir('results_conv'):
+        os.mkdir('results_conv')
     # declare model
     act=tf.keras.activations.relu
     num_filters=64

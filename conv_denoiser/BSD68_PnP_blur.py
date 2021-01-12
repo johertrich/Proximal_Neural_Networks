@@ -22,6 +22,8 @@ from pyunlocbox import functions,solvers
 import pickle
 
 def run(scale=1.99,sigma_blur=0.1,noise_level_denoiser=0.005,num=None,method='FBS',pretrained_weights=True):
+    if not os.path.isdir('results_conv'):
+        os.mkdir('results_conv')
     # declare model
     act=tf.keras.activations.relu
     num_filters=64
