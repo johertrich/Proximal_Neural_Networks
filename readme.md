@@ -2,6 +2,11 @@
 
 This code belongs to the papers [1] and [2]. Please cite the corresponding paper, if you use this code.
 
+Paper [1] is available at  
+https://doi.org/10.1007/s00041-020-09761-7,  
+Further the Arxiv-Preprints of the papers [1] and [2] can be found at  
+https://arxiv.org/abs/1912.10480 and https://arxiv.org/abs/2011.02281.
+
 The repository contains an implementation of Proximal Neural Networks as introduced in [1] and its convolutional counterpart as proposed in [2].
 It contains scripts for reproducing the signal-denoising and classification example on the MNIST data set (http://yann.lecun.com/exdb/mnist) from [1] as well as the code for the convolutional denoiser from [2], which is trained on the BSDS data set [3] and tested on the BSD68 test set.
 
