@@ -1,14 +1,14 @@
 # This code belongs to the papers
 #
-# [1] M. Hasannasab, J. Hertrich, S. Neumayer, G. Plonka, S. Setzer, and G. Steidl.
+# M. Hasannasab, J. Hertrich, S. Neumayer, G. Plonka, S. Setzer, and G. Steidl.
 # Parseval proximal neural networks.  
 # Journal of Fourier Analysis and Applications, 26:59, 2020.
 #
 # and
 # 
-# [2] J. Hertrich, S. Neumayer and G. Steidl.  
+# J. Hertrich, S. Neumayer and G. Steidl.  
 # Convolutional Proximal Neural Networks and Plug-and-Play Algorithms.
-# arXiv Preprint#2011.02281, 2020.
+# Linear Algebra and its Applications, vol 631 pp. 203-234, 2021.
 #
 # Please cite the corresponding paper if you use this code.
 #

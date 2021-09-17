@@ -2,8 +2,8 @@
 
 This code belongs to the papers [1] and [2]. Please cite the corresponding paper, if you use this code.
 
-Paper [1] is available at  
-https://doi.org/10.1007/s00041-020-09761-7,  
+The papers [1] and [2] are available at  
+https://doi.org/10.1007/s00041-020-09761-7 and https://doi.org/10.1016/j.laa.2021.09.004.  
 Further the Arxiv-Preprints of the papers [1] and [2] can be found at  
 https://arxiv.org/abs/1912.10480 and https://arxiv.org/abs/2011.02281.
 
@@ -313,7 +313,7 @@ Journal of Fourier Analysis and Applications, 26:59, 2020.
 
 [2] J. Hertrich, S. Neumayer and G. Steidl.  
 Convolutional Proximal Neural Networks and Plug-and-Play Algorithms.  
-arXiv Preprint#2011.02281, 2020.
+Linear Algebra and its Applications, vol 631 pp. 203-234, 2021.
 
 [3] D. Martin, C. Fowlkes, D. Tal, and J. Malik.  
 A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics.  

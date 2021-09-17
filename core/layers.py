@@ -8,7 +8,7 @@
 # 
 # J. Hertrich, S. Neumayer and G. Steidl.  
 # Convolutional Proximal Neural Networks and Plug-and-Play Algorithms.
-# arXiv Preprint#2011.02281, 2020.
+# Linear Algebra and its Applications, vol 631 pp. 203-234, 2021.
 #
 # Please cite the corresponding paper if you use this code.
 #
